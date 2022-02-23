@@ -1,0 +1,14 @@
+﻿'code7.exe' (Win32): Loaded 'C:\Users\nishu\source\repos\code7\x64\Debug\code7.exe'. Symbols loaded.
+'code7.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'code7.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'code7.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'code7.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'code7.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'code7.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'code7.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 0x173c has exited with code 0 (0x0).
+'code7.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'code7.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+The thread 0x4fd0 has exited with code 0 (0x0).
+The thread 0xf04 has exited with code 0 (0x0).
+The program '[1272] code7.exe' has exited with code 0 (0x0).
